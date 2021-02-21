@@ -12,5 +12,5 @@ leyou:
   sms:
     accessKeyId: ***# 你自己的accessKeyId
     accessKeySecret: ***# 你自己的AccessKeySecret
-    signName: 南浔北觅 # 签名名称
-    verifyCodeTemplate: SMS_209470294 # 模板名称
+    signName: *** # 签名名称
+    verifyCodeTemplate: *** # 模板名称
